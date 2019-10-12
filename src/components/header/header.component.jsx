@@ -2,8 +2,9 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 import {auth} from '../../firebase/firebase.utils';
 import {connect} from 'react-redux';
+import {ReactComponent as Logo} from '../../assets/puck.svg'
 import './header.styles.scss';
-import {ReactComponent as Logo} from '../../assets/crown.svg'
+import CartIcon from '../cart-icon.component/cart-icon.component';
 
 const Header = ({currentUser})=> (
     <div className="header">
@@ -22,6 +23,7 @@ const Header = ({currentUser})=> (
                 ? <div className='option' onClick={()=> auth.signOut()}>Sign Out</div>
                 : <Link className='option' to='/signin'>Sign In</Link>
             }
+            <CartIcon />
         </div>
     </div>
 );
