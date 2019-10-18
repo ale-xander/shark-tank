@@ -1,5 +1,5 @@
-const SHOP_DATA = [
-  {
+const SHOP_DATA = {
+  sticks: {
     id: 1,
     title: 'Sticks',
     routeName: 'sticks',
@@ -69,7 +69,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  skates: {
     id: 2,
     title: 'Skates',
     routeName: 'skates',
@@ -132,7 +132,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  helmets: {
     id: 3,
     title: 'Helmets',
     routeName: 'helmets',
@@ -174,7 +174,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  jerseys: {
     id: 4,
     title: 'Jerseys',
     routeName: 'jerseys',
@@ -230,7 +230,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  gloves: {
     id: 5,
     title: 'Gloves',
     routeName: 'gloves',
@@ -273,10 +273,11 @@ const SHOP_DATA = [
       {
         id: 35,
         name: 'gloves six',
-        imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+        imageUrl: 'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33906/41/117421',
         price: 25
       }
     ]
   }
-]
+}
+
 export default SHOP_DATA
