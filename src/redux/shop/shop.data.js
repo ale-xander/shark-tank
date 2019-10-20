@@ -6,67 +6,60 @@ const SHOP_DATA = {
     items: [
       {
         id: 1,
-        name: 'stick one',
+        name: 'Bauer Vapor 1X Lite',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 25
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/38499/41/124778',
+        price: 299
       },
       {
         id: 2,
-        name: 'stick two',
+        name: 'CCM Ribcor 65K',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 18
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/35539/41/122148',
+        price: 99
       },
       {
         id: 3,
-        name: 'stick three',
+        name: 'CCM Super Tacks AS2',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 35
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/39463/41/128963',
+        price: 159
       },
       {
         id: 4,
-        name: 'stick four',
+        name: 'Warrior Alpha DX',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 25
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/37087/41/127728',
+        price: 199
       },
       {
         id: 5,
-        name: 'stick five',
+        name: 'TRUE XCore XC9',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 18
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/37089/41/123701',
+        price: 269
       },
       {
         id: 6,
-        name: 'stick six',
+        name: 'Bauer Vapor 2X Pro',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 14
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/37311/41/126140',
+        price: 249
       },
       {
         id: 7,
-        name: 'stick seven',
+        name: 'Warrior Fantom QRE',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 18
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/38555/41/125739',
+        price: 319
       },
       {
         id: 8,
-        name: 'stick eight',
+        name: 'TRUE XCore XC9',
         imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 14
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/27022/41/109456',
+        price: 159
       },
-      {
-        id: 9,
-        name: 'stick nine',
-        imageUrl:
-          'https://cdn.hockeymonkey.com/media/catalog/product/cache/3/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/a/bauer-hockey-stick-supreme-1s-grip-17-sr.jpg',
-        price: 16
-      }
     ]
   },
   skates: {
@@ -76,59 +69,59 @@ const SHOP_DATA = {
     items: [
       {
         id: 10,
-        name: 'skates one',
+        name: 'Bauer NS',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 220
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/34025/41/118155',
+        price: 69
       },
       {
         id: 11,
-        name: 'skates two',
+        name: 'Bauer Supreme 2S',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 280
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/34016/41/118749',
+        price: 899
       },
       {
         id: 12,
-        name: 'skates three',
+        name: 'Bauer Nexus N2700',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 110
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/34023/41/118704',
+        price: 229
       },
       {
         id: 13,
-        name: 'skates four',
+        name: 'Bauer Vapor 1X',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 160
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/26871/41/108819',
+        price: 949
       },
       {
         id: 14,
-        name: 'skates five',
+        name: 'CCM Tacks 9070',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 160
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/33897/41/118268',
+        price: 299
       },
       {
         id: 15,
-        name: 'skates six',
+        name: 'CCM Super Tacks AS1',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 160
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33900/41/115923',
+        price: 849
       },
       {
         id: 16,
-        name: 'skates seven',
+        name: 'CCM JetSpeed FT350',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 190
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/27073/41/109254',
+        price: 79
       },
       {
         id: 17,
-        name: 'skates eight',
+        name: 'CCM Ribcor 64K',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34027/41/118150',
-        price: 200
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/27075/41/109235',
+        price: 199
       }
     ]
   },
@@ -139,37 +132,37 @@ const SHOP_DATA = {
     items: [
       {
         id: 18,
-        name: 'helmets one',
+        name: 'Bauer Re-Akt 95',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34055/2/118629',
-        price: 125
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/33911/2/120814',
+        price: 159
       },
       {
         id: 19,
-        name: 'helmets two',
+        name: 'Bauer 4500',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34055/2/118629',
-        price: 90
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/4699/2/123942',
+        price: 69
       },
       {
         id: 20,
-        name: 'helmets three',
+        name: 'Bauer IMS 5.0',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34055/2/118629',
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/18364/2/118673',
         price: 90
       },
       {
         id: 21,
-        name: 'helmets four',
+        name: 'CCM Fitlite FL500',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34055/2/118629',
-        price: 165
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/33673/2/112580',
+        price: 199
       },
       {
         id: 22,
-        name: 'helmets five',
+        name: 'CCM Tacks 710',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34055/2/118629',
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/26844/2/110309',
         price: 185
       }
     ]
@@ -181,52 +174,52 @@ const SHOP_DATA = {
     items: [
       {
         id: 23,
-        name: 'jersey one',
+        name: 'Brent Burns',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34875/11/121671',
-        price: 25
+          'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_2985000/altimages/ff_2985898alt1_full.jpg&w=900',
+        price: 179
       },
       {
         id: 24,
-        name: 'jersey two',
+        name: 'Joe Thornton',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34875/11/121671',
-        price: 20
-      },
-      {
-        id: 25,
-        name: 'jersey three',
-        imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34875/11/121671',
-        price: 80
-      },
-      {
-        id: 26,
-        name: 'jersey four',
-        imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34875/11/121671',
-        price: 80
-      },
-      {
-        id: 27,
-        name: 'jersey five',
-        imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34875/11/121671',
-        price: 45
-      },
-      {
-        id: 28,
-        name: 'jersey six',
-        imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34875/11/121671',
+          'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3056000/altimages/ff_3056031alt1_full.jpg&w=900',
         price: 135
       },
       {
-        id: 29,
-        name: 'jersey seven',
+        id: 25,
+        name: 'Erik Karlsson',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/34875/11/121671',
-        price: 20
+          'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3308000/altimages/ff_3308157-ac441c10233918a535ddalt1_full.jpg&w=900',
+        price: 135
+      },
+      {
+        id: 26,
+        name: 'Logan Couture',
+        imageUrl:
+          'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3056000/altimages/ff_3056023alt1_full.jpg&w=900',
+        price: 135
+      },
+      {
+        id: 27,
+        name: 'Evander Kane',
+        imageUrl:
+          'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3145000/altimages/ff_3145651alt1_full.jpg&w=900',
+        price: 135
+      },
+      {
+        id: 28,
+        name: 'Marc-Edouard Vlasic',
+        imageUrl:
+          'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3113000/altimages/ff_3113751alt1_full.jpg&w=900',
+        price: 79
+      },
+      {
+        id: 29,
+        name: 'Tomas Hertl',
+        imageUrl:
+          'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_3113000/altimages/ff_3113736alt1_full.jpg&w=900',
+        price: 79
       }
     ]
   },
@@ -237,44 +230,44 @@ const SHOP_DATA = {
     items: [
       {
         id: 30,
-        name: 'gloves one',
+        name: 'Bauer Vapor 1X',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33906/41/117421',
-        price: 325
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/33905/41/117397',
+        price: 199
       },
       {
         id: 31,
-        name: 'gloves two',
+        name: 'Bauer Supreme 2S',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33906/41/117421',
-        price: 20
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/37323/41/126024',
+        price: 199
       },
       {
         id: 32,
-        name: 'gloves three',
+        name: 'CCM Tacks 9060',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33906/41/117421',
-        price: 25
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/37190/41/126961',
+        price: 99
       },
       {
         id: 33,
-        name: 'gloves four',
+        name: 'CCM Super Tacks AS1',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33906/41/117421',
-        price: 25
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/37192/41/126982',
+        price: 199
       },
       {
         id: 34,
-        name: 'gloves five',
+        name: 'Warrior Covert QR',
         imageUrl:
-          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33906/41/117421',
-        price: 40
+          'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/34239/41/116312',
+        price: 199
       },
       {
         id: 35,
-        name: 'gloves six',
-        imageUrl: 'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_1000,h_1000/products/33906/41/117421',
-        price: 25
+        name: 'Warrior Alpha Pro',
+        imageUrl: 'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/27097/41/110618',
+        price: 149
       }
     ]
   }
