@@ -2,32 +2,32 @@ const INITIAL_STATE = {
     sections: [
         {
             title: 'sticks',
-            imageUrl: 'https://dks.scene7.com/is/image/GolfGalaxy/18WARYF18CVRTQR10HKSA?wid=1400&fmt=jpg',
+            imageUrl: 'https://res-console.cloudinary.com/ale-xander/thumbnails/transform/v1/image/upload/Y19zY2FsZSx3XzMwMA==/v1571610112/c2hhcmsgdGFuay8xOFdBUllGMThDVlJUUVIxMEhLU0FfZHYzemN1/template_primary?0.023395714974125514',
             id: 1,
             linkUrl: 'shop/sticks'
         },
         {
             title: 'skates',
-            imageUrl: 'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/34027/41/118150',
+            imageUrl: 'https://res.cloudinary.com/ale-xander/image/upload/c_scale,w_300/v1571610233/shark%20tank/118150_dd2vs0.jpg',
             id: 2,
             linkUrl: 'shop/skates'
         },
         {
             title: 'helmets',
-            imageUrl: 'https://dks.scene7.com/is/image/dkscdn/18CCMSHTFL60SRHLMHKP_Navy?wid=425',
+            imageUrl: 'https://res.cloudinary.com/ale-xander/image/upload/c_scale,w_300/v1571610350/shark%20tank/18CCMSHTFL60SRHLMHKP_Navy_dzvovo.jpg',
             id: 3,
             linkUrl: 'shop/helmets'
         },
         {
             title: 'jerseys',
-            imageUrl: 'https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_2724000/altimages/ff_2724762alt1_full.jpg&w=900',
+            imageUrl: 'https://res.cloudinary.com/ale-xander/image/upload/c_scale,w_400/v1571610401/shark%20tank/thumb.aspx_jmma7i.jpg',
             size: 'large',
             id: 4,
             linkUrl: 'shop/jerseys'
         },
         {
             title: 'gloves',
-            imageUrl: 'https://media.purehockey.com/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/37068/41/124942',
+            imageUrl: 'https://res.cloudinary.com/ale-xander/image/upload/c_scale,w_300/v1571610465/shark%20tank/124942_cs42uo.jpg',
             size: 'large',
             id: 5,
             linkUrl: 'shop/gloves'
