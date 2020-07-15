@@ -3,14 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "AIzaSyAyoqCNND7HYBywjKfByNtNXka4b6WVE6k",
-    authDomain: "shark-tank-db.firebaseapp.com",
-    databaseURL: "https://shark-tank-db.firebaseio.com",
-    projectId: "shark-tank-db",
-    storageBucket: "",
-    messagingSenderId: "886247327541",
-    appId: "1:886247327541:web:50468dfac0a385cabaae7c",
-    measurementId: "G-DGFYRGMRVW"
+    apiKey: "AIzaSyBVA7CMc56avsGj8rsSUFx90eCi-yO06Mg",
+    authDomain: "shark-tank-02.firebaseapp.com",
+    databaseURL: "https://shark-tank-02.firebaseio.com",
+    projectId: "shark-tank-02",
+    storageBucket: "shark-tank-02.appspot.com",
+    messagingSenderId: "248032151111",
+    appId: "1:248032151111:web:a69d748671103e6cf11362"
 };
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {

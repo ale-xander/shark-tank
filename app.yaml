@@ -1,4 +1,4 @@
 # [START app_yaml]
-env: flex
-runtime: nodejs
+# env: flex
+runtime: nodejs10
 # [END app_yaml]
