@@ -4,3 +4,6 @@ App: https://nostalgic-minsky-0297ee.netlify.app
 
 
 Gif Demo: https://streamable.com/cbkgic
+
+
+Git Clone, cd into folder, `yarn install` then `yarn start`
