@@ -3,4 +3,4 @@ A React and HTML5 single-page application (web store selling hockey gear). Using
 App: https://nostalgic-minsky-0297ee.netlify.app
 
 
-Gif Demo: https://streamable.com/4dldum
+Gif Demo: https://streamable.com/cbkgic
